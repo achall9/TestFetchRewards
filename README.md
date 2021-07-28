@@ -2,8 +2,8 @@
 
 
 
-![](https://github.com/achall9/TestFetchRewards/Media/IMG_0822.PNG)
-![](https://github.com/achall9/TestFetchRewards/Media/IMG_0823.PNG)
+![](https://github.com/achall9/TestFetchRewards/blob/main/Media/IMG_0822.PNG)
+![](https://github.com/achall9/TestFetchRewards/blob/main/Media/IMG_0823.PNG)
 
 ## Requirements: 
 
