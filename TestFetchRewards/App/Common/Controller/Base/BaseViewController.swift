@@ -15,9 +15,9 @@ class BaseViewController: UIViewController, UIGestureRecognizerDelegate {
     var isLoading: Bool = false
     
     // Status Bar Style
-    override var preferredStatusBarStyle: UIStatusBarStyle {
-        return .lightContent
-    }
+//    override var preferredStatusBarStyle: UIStatusBarStyle {
+//        return .lightContent
+//    }
     
     // RxCocoa
     let disposeBag = DisposeBag()
@@ -46,11 +46,11 @@ class BaseViewController: UIViewController, UIGestureRecognizerDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.view.backgroundColor = .white
+//        self.view.backgroundColor = .white
         
-        if #available(iOS 13.0, *) {
-            overrideUserInterfaceStyle = .light
-        }
+//        if #available(iOS 13.0, *) {
+//            overrideUserInterfaceStyle = .light
+//        }
         
         self.extendedLayoutIncludesOpaqueBars = false
         self.edgesForExtendedLayout = []

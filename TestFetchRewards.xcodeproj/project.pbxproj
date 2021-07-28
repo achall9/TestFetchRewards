@@ -249,10 +249,10 @@
 		FD30658E26AF0E6E00CF0061 /* TestFetchRewards */ = {
 			isa = PBXGroup;
 			children = (
-				FD30677C26B01C0C00CF0061 /* Extension */,
-				FD30668526B016BF00CF0061 /* Helper */,
 				FD3065F426AF19B900CF0061 /* App */,
 				FD3065E526AF186C00CF0061 /* Core */,
+				FD30677C26B01C0C00CF0061 /* Extension */,
+				FD30668526B016BF00CF0061 /* Helper */,
 				FD3065E426AF181000CF0061 /* Res */,
 			);
 			path = TestFetchRewards;

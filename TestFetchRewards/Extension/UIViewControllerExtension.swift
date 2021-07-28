@@ -40,7 +40,7 @@ extension UIViewController: SFSafariViewControllerDelegate {
         guard let url = URL(string: url) else { return }
         let safariVC = SFSafariViewController(url: url)
         if #available(iOS 13.0, *) {
-            safariVC.overrideUserInterfaceStyle = .light
+//            safariVC.overrideUserInterfaceStyle = .light
         }
         safariVC.delegate = self
         present(safariVC, animated: true, completion: nil)

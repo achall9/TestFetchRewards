@@ -22,6 +22,7 @@ class EventsViewController: BaseViewController {
         self.title = "Events"
         navigationItem.searchController = SearchController(delegate: self)
         self.definesPresentationContext = true
+        self.navigationItem.hidesSearchBarWhenScrolling = true
         EventCell.registerWithNib(to: tblEvents)
     }
     
