@@ -1,9 +1,10 @@
 # TestFetchRewards
 
 
-
-![](https://github.com/achall9/TestFetchRewards/blob/main/Media/IMG_0822.PNG)
-![](https://github.com/achall9/TestFetchRewards/blob/main/Media/IMG_0823.PNG)
+<div align="center">
+    <img src="https://github.com/achall9/TestFetchRewards/blob/main/Media/IMG_0822.PNG" width="30%">
+    <img src="https://github.com/achall9/TestFetchRewards/blob/main/Media/IMG_0823.PNG" width="30%">
+</div>
 
 ## Requirements: 
 
