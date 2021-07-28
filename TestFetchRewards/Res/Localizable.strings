@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TestFetchRewards
+
+  Created by Alex on 27/07/2021.
+  
+*/
+
+"network_connection_error" = "Network connection error. Please try again";
+"invalid_token_error" = "Access token is invalid. Please log in again.";
+"invalid_json_error" = "Error while parsing json. Please try again.";
+"common_error" = "Unknown error. Please try again.";
+"appname" = "TestFetchRewards";

@@ -1,0 +1,24 @@
+# OS generated files #
+######################
+*.DS_Store*
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Xcode files #
+###############
+build/
+*.swp
+*~.nib
+xcuserdata/
+project.xcworkspace/
+
+# SVN #
+#######
+.svn/entries
+.svn/
+.svn
+Pods
+/fastlane/report.xml
